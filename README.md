@@ -8,7 +8,7 @@ Desafio proposto duranto o Boot Camp Back-end Java da Dio em parceria com o Sant
 
 
 
-´´´ mermaid
+```mermai
 classDiagram
   class User {
     -String name
@@ -45,4 +45,4 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 
-´´´
+```
