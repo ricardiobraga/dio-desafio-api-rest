@@ -8,7 +8,7 @@ Desafio proposto duranto o Boot Camp Back-end Java da Dio em parceria com o Sant
 
 
 
-```mermai
+```mermaid
 classDiagram
   class User {
     -String name
